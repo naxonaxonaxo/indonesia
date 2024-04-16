@@ -1,4 +1,4 @@
-Proyecto final examen DAW
+Proyecto final examen DAW no RESPONSIVE
 
 Tecnologias usadas: HTML y CSS
 
