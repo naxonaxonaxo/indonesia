@@ -1,0 +1,38 @@
+Todo este material utilizado es bajado de internet, no es de mi propiedad, solo lo utilizo para practicar y aprender para la realización de mi proyecto final de Desarrollo Web.
+
+
+Se a usado Figma para la realización del diseño de la página web y trello para la organización de las tareas a realizar.
+
+
+creación de estrellas valoración:
+
+https://unviajeporloslibrosoff.blogspot.com/2016/08/tutorial-valoracion-de-estrellas.html
+
+
+
+https://viajeros30.com/2019/03/21/que-hacer-que-ver-en-ubud-bali/
+
+
+
+https://losviajesdeclaudia.com/indonesia/que-ver-en-yogyakarta/
+
+
+
+https://www.iatiseguros.com/blog/que-hacer-islas-gili/
+
+
+https://viajeros30.com/2022/11/23/que-ver-en-nusa-penida/
+
+
+https://come2indonesia.com/es/isla-de-komodo-parque-nacional/
+
+
+
+carussel de codepen:
+https://codepen.io/22chrs/pen/KWLbaW
+
+https://www.migueltroyano.com/css/carrusel-imagenes-html-css/
+
+
+media query:
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
